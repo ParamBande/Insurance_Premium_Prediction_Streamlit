@@ -7,7 +7,7 @@ A **Streamlit web application** that predicts your annual health insurance premi
 ## 🔗 Live App
 
 Access the live application here:  
-[**Health Insurance Premium Predictor**](https://health-insurance-predictor.onrender.com)
+[**Health Insurance Premium Predictor**]([https://health-insurance-predictor.onrender.com](https://insurance-premium-predictor-c23k.onrender.com/))
 
 ---
 
